@@ -1,0 +1,3 @@
+name: ExerciceEndMC
+version: '${version}'
+main: me.zoxouu.exercice.ExerciceEndMC
